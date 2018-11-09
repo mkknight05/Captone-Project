@@ -1,0 +1,27 @@
+
+
+.Square{
+    height: 80px;
+    width: 80px;
+    font-size: 45px;
+    text-align: center;
+}
+body{
+    width: 550px;
+   margin: auto;
+   font-family: 'Poor Story', cursive;
+   background-color: rgb(149, 149, 149);
+}
+
+h1{
+    border-bottom: 1px solid red
+}
+.Square:hover{
+   background-color: rgb(116, 77, 77)
+}
+
+#restart {
+    font-size: 20px;
+    font-family: 'Poor Story', cursive;
+    color: rgb(177, 175, 177);
+}
